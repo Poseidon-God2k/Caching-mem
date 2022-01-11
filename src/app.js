@@ -51,4 +51,4 @@ app.listen(PORT, () => {
 
 ///test 
 //not redis => 34ms
-//have redis => 9s
+//have redis => 4s
